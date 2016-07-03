@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">非挂教育</string>
+
+    <string name="login_user_text">用户名</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_register">activity_register</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_welcome_activity">welcome_activity</string>
+    <string name="title_activity_care">care</string>
+    <string name="title_activity_activity_comment">activity_comment</string>
+    <string name="title_activity_activity_getclass">activity_getclass</string>
+    <string name="title_activity_activity_teach">activity_teach</string>
+    <string name="title_activity_activity_regi_teach">activity_regi_teach</string>
+    <string name="title_activity_activity_got">activity_got</string>
+    <string name="title_activity_activity_money">activity_money</string>
+    <string name="title_activity_success">success</string>
+    <string name="title_activity_uplesson">uplesson</string>
+</resources>
